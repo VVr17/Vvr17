@@ -3,7 +3,7 @@
 I'm Vira Voronova, a passionate web developer. Here's a bit about me.
 
 ## My skills
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,gatsby,ts,vue,nodejs,express,mongodb,html,css,scss,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,gatsby,ts,vue,html,css,scss,graphql,nodejs,express,mongodb)](https://skillicons.dev)
 
 ## Libs and Tools
 [![My Skills](https://skillicons.dev/icons?i=redux,styledcomponents,emotion,tailwind,materialui,firebase,figma)](https://skillicons.dev)
