@@ -8,9 +8,9 @@ I'm Vira Voronova, a passionate web developer. Here's a bit about me.
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb)](https://skillicons.dev)
 
 ## Libs and Tools
-[![My Skills](https://skillicons.dev/icons?i=redux,styledcomponents,emotion,tailwind,materialui,firebase,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redux,styledcomponents,emotion,tailwind,materialui,firebase,figma,postman)](https://skillicons.dev)
 
-## I’m currently learning
+## Currently learning
 [![My Skills](https://skillicons.dev/icons?i=redis,postgres,sequelize)](https://skillicons.dev)
 
 Feel free to explore my GitHub repositories and reach out if you have any questions or would like to collaborate!
